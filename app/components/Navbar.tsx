@@ -3,7 +3,6 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <div>
       <nav className="max-w-3xl mx-auto py-4 flex gap-x-4">
         <Link href="/">Home</Link>
         <Link href="/sub1">Sub1</Link>
@@ -20,6 +19,5 @@ export default function Navbar() {
         <Link href="/sub12">Sub12</Link>
         <Link href="/about">About</Link>
       </nav>
-    </div>
   );
 }
