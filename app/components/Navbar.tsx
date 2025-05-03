@@ -17,6 +17,7 @@ export default function Navbar() {
         <Link className="hover:text-blue-500" href="/sub10">Sub10</Link>
         <Link className="hover:text-blue-500" href="/sub11">Sub11</Link>
         <Link className="hover:text-blue-500" href="/sub12">Sub12</Link>
+        <Link className="hover:text-blue-500" href="/book">Books</Link>
         <Link className="hover:text-blue-500" href="/about">About</Link>
       </nav>
   );
