@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function sub4() {
+export default function Sub4() {
   return (
     <div>
       sub5

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function sub12() {
+export default function Sub12() {
   return (
     <div>
       sub12

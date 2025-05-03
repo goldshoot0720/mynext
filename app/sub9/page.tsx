@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function sub9() {
+export default function Sub9() {
   return (
     <div>
       sub9
